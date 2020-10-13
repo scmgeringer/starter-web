@@ -2,3 +2,4 @@ robots.txt
 404.html
 *.log
 log/
+*.orig
