@@ -17,6 +17,7 @@ This is a simple web project, deployment can be on any web server or even local 
 ## How to Contrubute
 
 Scott Please fork this repository and then issue Pull Requests for review.
+Nice, this looks good.
 
 ### Copyright
 2014 Git.Training.  All rights reserved.
