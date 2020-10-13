@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Scott Matthew Geringer	scmgeringer@gmail.com @awesomesmg
 
 # THANKS
 
